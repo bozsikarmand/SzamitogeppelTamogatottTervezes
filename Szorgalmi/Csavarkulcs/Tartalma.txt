@@ -1,0 +1,6 @@
+- 3D szilárdtest(ek) modellezése (3 pont)
+	-- Szilárdtest készítés 2D profil térbeli mozgatásával
+- Metszet készítése (2 pont)
+	-- Papírtérben testnézet és testrajzol parancsokkal
+
+Testnezetet es testrajzolt hasznaltam. (SOLVIEW / SOLDRAW)

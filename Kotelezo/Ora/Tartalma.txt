@@ -1,0 +1,7 @@
+﻿- 2D rajz készítése többféle rajzoló és módosító parancs használatával (2 pont)
+- Fólia kezelés (0,5 pont)
+- Méretezések (0,5 pont)
+- Rajzkeret, adatokkal (1 pont)
+- Készítő neve, EHA azonosítója
+- Feladat rövid leírása, bemutatása
+- Blokk használat (1 pont)
